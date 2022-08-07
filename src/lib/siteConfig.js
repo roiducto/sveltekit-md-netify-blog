@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://swyxkit.netlify.app';
+export const SITE_URL = 'https://frabjous-donut-8c7ee1.netlify.app/';
 export const APPROVED_POSTERS_GH_USERNAME = ['roiducto']; // IMPORTANT - change this to at least your github username, or add others if you want
 export const GH_USER_REPO = 'roiducto/sveltekit-md-netify-blog'; // used for pulling github issues and offering comments
 export const REPO_URL = 'https://github.com/' + GH_USER_REPO;
